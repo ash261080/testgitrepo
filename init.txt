@@ -8,3 +8,5 @@ stash save
 check local conflics
 
 made changes in branch
+
+bisected file
