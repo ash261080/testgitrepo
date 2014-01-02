@@ -1,6 +1,0 @@
-new branch file
-test latest change
-
-latest checkout done
-
-made changes for branch2
