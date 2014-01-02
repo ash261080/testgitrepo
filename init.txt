@@ -12,3 +12,5 @@ made changes in branch
 bisected file
 
 made some changes for the team
+
+added by some other team member
