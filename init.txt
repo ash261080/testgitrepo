@@ -2,3 +2,7 @@ branch1 already there
 making change 2
 making change 3
 makcing change 4
+
+now making change 5
+now making change 6
+now making change 7
