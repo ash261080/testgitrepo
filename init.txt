@@ -1,10 +1,1 @@
-first init
-new addition
-some more change
-this is directly from internet
-check merge
-somethings
-stash save
-check local conflics
-
-made changes in branch
+resetting changes
