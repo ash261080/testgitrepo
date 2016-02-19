@@ -1,5 +1,1 @@
-this was master file
-new branch file
-test latest change
-
-latest checkout done
+this is branch file
