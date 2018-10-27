@@ -3,3 +3,4 @@ Added a line
 some more
 Conflicnedline from local
 fifthlocalconflict
+usetool
