@@ -1,1 +1,8 @@
 check merge issue 12
+
+this was master file
+new branch file
+test latest change
+
+latest checkout done
+This is vinaynagaer branch
