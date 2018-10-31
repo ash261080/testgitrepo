@@ -1,1 +1,2 @@
+changing some propertu
 this should cause conflict
