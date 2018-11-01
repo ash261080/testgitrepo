@@ -1,2 +1,1 @@
-x=truemeharand appended osmething revert another file
-localsecondline
+fresh start master test merge
