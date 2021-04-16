@@ -1,2 +1,2 @@
 changing some propertu mehar revert this file
-same line in myrelease
+same line in myrelease version2
